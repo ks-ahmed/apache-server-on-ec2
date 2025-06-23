@@ -30,13 +30,6 @@ It’s amazing how powerful a few lines of Bash can be when paired with AWS! Per
 
 ---
 
-## Repo Structure
-
-├── user-data.sh # Bash script to automate Apache installation
-└── README.md # Project overview and setup instructions
-
----
-
 ## How to Use
 
 1. Launch an EC2 Instance (Amazon Linux 2).
