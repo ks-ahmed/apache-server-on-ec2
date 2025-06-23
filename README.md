@@ -13,7 +13,7 @@ This repo showcases how to spin up a web-ready Apache server on AWS EC2 using a 
 - Easily replicable across environments  
 - Scalable and cost-effective  
 
-It’s amazing how powerful a few lines of Bash can be when paired with AWS! 💥 Perfect for quickly deploying:
+It’s amazing how powerful a few lines of Bash can be when paired with AWS! Perfect for quickly deploying:
 
 - Minimal web stacks  
 - Prototypes or demos  
