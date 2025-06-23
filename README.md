@@ -2,7 +2,7 @@
 
 Just wrapped up a successful deployment: Running an Apache webserver on an EC2 instance — fully automated using EC2 User Data.
 
-This repo showcases how to spin up a web-ready Apache server on AWS EC2 using a lightweight, zero-touch setup script. No manual configuration needed — simply launch and go!
+This repo showcases how to spin up a web-ready Apache server on AWS EC2 using a lightweight, zero-touch setup script. No manual configuration needed — simply launch and deploy!
 
 ---
 
